@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --azul-mais-escuro: #333853;
+    --Azul-mais-claro: #3C4262;
+    --Verde: #219653;
+    --Amarelo: #F2C94C;
+    --texto: #9fa1ae;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    background-color: var(--azul-mais-escuro);
+}
